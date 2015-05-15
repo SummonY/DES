@@ -1,0 +1,6 @@
+# ignore vim swp file.
+.*.swp
+
+# ignore project file.
+*.class
+*.project
